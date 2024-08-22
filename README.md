@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lumos
 
 <p align="center">
@@ -92,3 +93,6 @@ samples, guidance on mobile development, and a full API reference.
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+=======
+# Lumos-master
+>>>>>>> 3252f34baa6a59e3f79615c0b49ea7f496c3f6a9
